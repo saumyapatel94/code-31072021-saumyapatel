@@ -1,0 +1,20 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "a simple bmi calculator",
+  "main": "app.js",
+  "scripts": {
+    "pretest": "echo starting test",
+    "test": "mocha",
+    "posttest": "echo finished test",
+    "start": "node app.js",
+    "build": "npm install",
+    "postbuild": "echo build finished"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3"
+  }
+}
