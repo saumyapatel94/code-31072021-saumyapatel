@@ -12,5 +12,4 @@ to start: run `npm start`
 to test: run `npm test`
 
 dev packages:
-mocha
-chai
+mocha, chai
